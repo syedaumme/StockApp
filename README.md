@@ -57,7 +57,7 @@ Once the application is running, you can use the interface to:
 
   ![image](https://github.com/user-attachments/assets/76da7f2e-e35f-4537-8790-edf381f1e6aa)
 
-  ![image](https://github.com/user-attachments/assets/af432244-b6bf-42e7-a672-79870f807353)
+  ![image](https://github.com/user-attachments/assets/facd878d-95cf-4faf-9129-1760bad1b83a)
 
 
 
